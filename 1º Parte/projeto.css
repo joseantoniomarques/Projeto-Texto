@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(26deg, rgb(255, 255, 255), rgb(116, 105, 105));
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    position: absolute;
+    padding: 15px;
+    top: 10%;
+    left: 15%;
+    text-align: left;
+    border-radius: 10px;
+}
+
+#text{
+    border-radius: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14.5px;
+    cursor:auto;
+}
+
+button{
+    border-radius: 5px;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: rgb(116, 6, 6);
+    color: white;
+    cursor: pointer;
+} button:hover{
+    background-color: rgb(255, 0, 0);
+}
+.subtitle{
+    font-size: x-large;
+}
